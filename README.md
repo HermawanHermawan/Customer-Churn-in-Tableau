@@ -45,7 +45,8 @@ Databel has a hypothesis that people who are not on an unlimited data plan are m
 
 Since it would be good to have an idea how much mobile data in gigabyte (GB) they are using on a monthly basis. We created a new new calculated field called to classify customers on the basis of the data they use called ‘Grouped Monthly GB Download’ from ‘Avg Monthly GB Download’ Column. The analysis shows that customers who are on an unlimited data plan but don’t consume more than 5 GB per month tend to churn more. 
 
-CHURN RATE BY INTERNATIONAL CALLS Databel is also curious about the behavior of customers who call internationally, and/or if paying for an international plan influences their loyalty. The analysis results in a high churn rate for customers who have an international plan but do not call internationally. Although the rate is ridiculously high, there are luckily not that many customers part of this group. AS for the monthly charge, this group appears to have the highest average monthly charge of all four groups. 
+CHURN RATE BY INTERNATIONAL CALLS
+Databel is also curious about the behavior of customers who call internationally, and/or if paying for an international plan influences their loyalty. The analysis results in a high churn rate for customers who have an international plan but do not call internationally. Although the rate is ridiculously high, there are luckily not that many customers part of this group. AS for the monthly charge, this group appears to have the highest average monthly charge of all four groups. 
 
 CHURN RATE BY CONTRACT TYPE
 Adding Contract Type into account, it appears that customers who are on a Month-to-Month contract are way more likely to churn. In this case, they mostly pay with Direct Debit (1141 out of total 1796. 
